@@ -1,0 +1,10 @@
+name: family_directory_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12       # or any version you prefer
+  - pandas
+  - openpyxl          # to allow pandas to read excel files
+  - numpy             # pandas usually uses it
+  - pip               # optional if you want to install pip packages
