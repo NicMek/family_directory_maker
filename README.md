@@ -5,7 +5,7 @@ Quick folder maker for family tree projects. builds the following structure:
         ├── family/
         │   ├── documents/
         │   └── images/
-        ├── [first_name_child1][LAST_NAME_FATHER]L/
+        ├── [first_name_child1][LAST_NAME_FATHER]/
         │   ├── documents/
         │   └── images/
         └── [first_name_child2][LAST_NAME_FATHER]/
